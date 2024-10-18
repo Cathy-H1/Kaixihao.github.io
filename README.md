@@ -1,7 +1,7 @@
 > [!IMPORTANT]
 > 
-> **我正在寻求一个PhD.的就读机会，如果您对我有兴趣可以发邮件给我: <a href = "mailto: wrs6@88.com">wrs6@88.com</a>**
-> > I am seeking a PhD. opportunity, if you are interested you can email me: wrs6@88.com
+> **我正在寻求一个PhD.的就读机会，如果您对我有兴趣可以发邮件给我: <a href = "mailto: kaixihao@ln.hk">kaixihao@ln.hk</a>**
+> > I am seeking a PhD. opportunity, if you are interested you can email me: kaixihao@ln.hk
 
 <!--
 > [!IMPORTANT]
@@ -14,10 +14,10 @@
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
 <a href="https://www.wangrs.co/"><img src="./resources/wrs_mpu.png" align="bottom" width="500px"/></a>
 </p-->
-  <h3 align="center">王荣胜｜Rongsheng Wang <img src="./resources/Hi.gif" width="29px"> </h3>
+  <h3 align="center">郝凯茜｜Kaixi Hao <img src="./resources/Hi.gif" width="29px"> </h3>
  <!-- <h5 align="center">💻做一切看起来都不那么容易实现的事情🎨</h5> -->
   <!--h5 align="center">💻Doing everything🎨 that seems not so easy to achieve!</h5-->
-  <!--I'm Rongsheng Wang, a master of Macao Polytechnic University. Welcome to join <a href="https://github.com/Turbo-AGI">Turbo-AGI Research Group</a>, We are dedicated to building safe, reliable, and practical visual and language AI models to serve society. We also own a company which you can learn about by visiting <a href="https://github.com/QiYuan-tech">Qiyuan.Tech</a>.-->
+  <!--I'm Kaixi Hao, a master of Lingnan University. Welcome to join <a href="https://github.com/Turbo-AGI">Computer Vision Research Group</a>, I am dedicated to building safe, reliable, and practical visual and language AI models to serve society. I also own a website which you can know me by visiting <a href="https://cathy-h1.github.io/Kaixihao.github.io/">Qiyuan.Tech</a>.-->
 </p>
 
 <p align="center">
